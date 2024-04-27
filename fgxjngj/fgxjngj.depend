@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714218012 source:d:\info\fgxjngj\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
